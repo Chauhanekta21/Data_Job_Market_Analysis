@@ -54,11 +54,12 @@ Data Cleaning & Feature Engineering:
 - Removed extreme unrealistic salary values (>600K USD)
 
 Exploratory Data Analysis (EDA):
+
 🔹 1. Job Demand Across Data Domains
 -  Data Science dominates job listings
 -  Data Engineering and Data Analysis follow closely
 -  AI/ML shows strong emerging demand
--  
+  
 🔹 2. Top Roles per Domain
 - Each domain is dominated by one key role
 - Example:
@@ -138,7 +139,7 @@ Key Overall Insights:
 - Medium-sized companies offer the best balance of salary and hiring
 - Market demand peaked in 2023 with slight slowdown in 2024
 
-  Conclusion
+  Conclusion:
 - The data job market (2020–2024) shows a clear shift toward:
   AI-driven roles
   Specialized skill-based hiring

@@ -12,7 +12,8 @@ The analysis explores how job demand, salaries, work models, company size, emplo
 - Data Architecture
 - Leadership & Management
 
-🎯 Objectives:
+
+📊 Objectives:
 - Analyze job demand across different data domains
 - Understand salary distribution and trends
 - Compare salaries across experience levels and roles
@@ -22,7 +23,8 @@ The analysis explores how job demand, salaries, work models, company size, emplo
 - Study employment type distribution
 - Track changes in demand and salary from 2020–2024
 
-Dataset Information:
+
+📊 Dataset Information:
 - Source: Kaggle
 - Link: https://www.kaggle.com/datasets/sazidthe1/data-science-salaries
 - Time Period: 2020–2024
@@ -38,14 +40,16 @@ Dataset Information:
     company_size
     employment_type
 
-Tools & Libraries Used:
+
+📊 Tools & Libraries Used:
 - Python
 - NumPy: numerical operations
 - Pandas: data manipulation
 - Matplotlib: data visualization
 - Seaborn: statistical plotting
 
-Data Cleaning & Feature Engineering:
+
+📊 Data Cleaning & Feature Engineering:
 - Created a copy of the original dataset to preserve raw data
 - Standardized inconsistent job titles
 - Engineered a new feature: job_category to group similar roles
@@ -53,7 +57,8 @@ Data Cleaning & Feature Engineering:
 - Detected and treated outliers in salary using group-wise IQR method
 - Removed extreme unrealistic salary values (>600K USD)
 
-Exploratory Data Analysis (EDA):
+
+📊 Exploratory Data Analysis (EDA):
 
 🔹 1. Job Demand Across Data Domains
 -  Data Science dominates job listings
@@ -130,7 +135,8 @@ Exploratory Data Analysis (EDA):
 -  Contract and part-time roles are rare
 -  Industry strongly prefers stable employment
 
-Key Overall Insights:
+
+📊 Key Overall Insights:
 - AI/ML is the fastest-growing and highest-paying domain
 - Data Engineering is the most stable career path
 - Data Analysis & BI are high demand but lower salary domains
@@ -139,7 +145,8 @@ Key Overall Insights:
 - Medium-sized companies offer the best balance of salary and hiring
 - Market demand peaked in 2023 with slight slowdown in 2024
 
-  Conclusion:
+
+📊 Conclusion:
 - The data job market (2020–2024) shows a clear shift toward:
   AI-driven roles
   Specialized skill-based hiring
@@ -147,7 +154,8 @@ Key Overall Insights:
   Hybrid work still under development
 - Overall, specialization + experience = highest value in the modern data job market.
 
-Skills Demonstrated:
+
+📊 Skills Demonstrated:
 - Exploratory Data Analysis (EDA) on real-world job market data
 - Data Cleaning and Preprocessing (handling missing values, duplicates, and outliers)
 - Feature Engineering (creating job_category for better analysis)
@@ -158,6 +166,7 @@ Skills Demonstrated:
 - Salary and Demand Trend Analysis across multiple dimensions (domain, experience, location, company size)
 - Analytical Thinking for identifying patterns in real-world data job market (2020–2024)
 
-Future Improvements:
+
+📊 Future Improvements:
 - Build an interactive Power BI dashboard to visually explore job market trends, salary insights, and domain-wise demand in a more dynamic way.
 - Apply predictive modeling to forecast future salaries and job demand trends across different data domains based on historical data (2020–2024)

@@ -1,6 +1,7 @@
 📊 Data Job Market Analysis (2020–2024)
 
-Project Overview:
+📊 Project Overview:
+
 This project presents a comprehensive Exploratory Data Analysis (EDA) of the global data job market from 2020 to 2024. 
 The analysis explores how job demand, salaries, work models, company size, employment types, and experience levels have evolved across multiple data domains such as:
 

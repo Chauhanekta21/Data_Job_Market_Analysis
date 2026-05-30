@@ -46,15 +46,15 @@ The analysis explores how job demand, salaries, work models, company size, emplo
 - Time Period: 2020–2024
 - File Used: data_science_salaries.csv
 - Key Features:
-    job_title
-    job_category (engineered feature)
-    experience_level
-    salary_in_usd
-    work_year
-    work_models
-    company_location
-    company_size
-    employment_type
+    - job_title
+    - job_category (engineered feature)
+    - experience_level
+    - salary_in_usd
+    - work_year
+    - work_models
+    - company_location
+    - company_size
+    - employment_type
 
 
 📊 Tools & Libraries Used:
@@ -84,9 +84,9 @@ The analysis explores how job demand, salaries, work models, company size, emplo
 🔹 2. Top Roles per Domain
 - Each domain is dominated by one key role
 - Example:
-  Data Science → Data Scientist
-  Data Engineering → Data Engineer
-  BI → BI Analyst
+  - Data Science → Data Scientist
+  - Data Engineering → Data Engineer
+  - BI → BI Analyst
   
 🔹 3. Salary Comparison Across Domains
 -  Highest salaries: Machine Learning & AI
@@ -164,10 +164,10 @@ The analysis explores how job demand, salaries, work models, company size, emplo
 
 📊 Conclusion:
 - The data job market (2020–2024) shows a clear shift toward:
-  AI-driven roles
-  Specialized skill-based hiring
-  Experience-based salary growth
-  Hybrid work still under development
+  - AI-driven roles
+  - Specialized skill-based hiring
+  - Experience-based salary growth
+  - Hybrid work still under development
 - Overall, specialization + experience = highest value in the modern data job market.
 
 

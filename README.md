@@ -13,6 +13,11 @@ The analysis explores how job demand, salaries, work models, company size, emplo
 - Leadership & Management
 
 
+📊 View Project:
+-  If the notebook (main_file.ipynb) does not render properly on GitHub, please use the HTML version:
+-  main_file.html
+
+
 📊 Objectives:
 - Analyze job demand across different data domains
 - Understand salary distribution and trends

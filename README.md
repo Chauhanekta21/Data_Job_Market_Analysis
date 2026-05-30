@@ -3,6 +3,7 @@
 📊 Project Overview:
 
 This project presents a comprehensive Exploratory Data Analysis (EDA) of the global data job market from 2020 to 2024. 
+
 The analysis explores how job demand, salaries, work models, company size, employment types, and experience levels have evolved across multiple data domains such as:
 
 - Data Science
@@ -15,13 +16,17 @@ The analysis explores how job demand, salaries, work models, company size, emplo
 
 
 📊 View Project:
--  GitHub may occasionally fail to render large notebooks. If the notebook preview does not load, use one of the options below.
 
-🔹 Option 1: View Notebook on NBViewer (Recommended)
--  https://nbviewer.org/github/Chauhanekta21/Data_Job_Analysis-EDA/blob/master/main_file.ipynb
+🔹 Option 1: Browse the GitHub Repository (Recommended)
+-  https://github.com/Chauhanekta21/Data_Job_Analysis-EDA
 
-🔹 Option 2: Download and View Locally
--  Download either "main_file.ipynb" (Jupyter Notebook) or "main_file.html" (HTML Report) and open them locally using Jupyter Notebook,  JupyterLab, VS Code, or any web browser.
+-  Note: GitHub may occasionally fail to render large notebooks. If the notebook preview does not load, use the options below:
+
+🔹 Option 2: View Notebook on NBViewer
+-  click: https://nbviewer.org/github/Chauhanekta21/Data_Job_Analysis-EDA/blob/master/main_file.ipynb
+
+🔹 Option 3: Download and View Locally
+-  Download main_file.ipynb or main_file.html and open them locally for the best offline experience.
 
 
 📊 Objectives:

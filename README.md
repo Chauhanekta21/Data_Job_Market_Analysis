@@ -14,9 +14,13 @@ The analysis explores how job demand, salaries, work models, company size, emplo
 
 
 📊 View Project:
--  If the notebook (main_file.ipynb) does not render properly on GitHub, please use the HTML version:
--  main_file.html
+- GitHub may occasionally fail to render large notebooks.
 
+🔹 NBViewer (Recommended):
+   https://nbviewer.org/github/Chauhanekta21/Data_Job_Analysis-EDA/blob/master/main_file.ipynb
+
+🔹 GitHub Repository:
+   https://github.com/Chauhanekta21/Data_Job_Analysis-EDA
 
 📊 Objectives:
 - Analyze job demand across different data domains

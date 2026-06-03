@@ -22,8 +22,8 @@ The analysis explores how job demand, salaries, work models, company size, emplo
 
 -  Note: GitHub may occasionally fail to render large notebooks. If the notebook preview does not load, use the options below:
 
-🔹 Option 2: View Notebook on NBViewer
--  click: https://nbviewer.org/github/Chauhanekta21/Data_Job_Analysis-EDA/blob/master/main_file.ipynb
+🔹 Option 2: View Notebook via GitHub Pages
+-  click: https://chauhanekta21.github.io/Data_Job_Analysis-EDA/
 
 🔹 Option 3: Download and View Locally
 -  Download main_file.ipynb or main_file.html and open them locally for the best offline experience.

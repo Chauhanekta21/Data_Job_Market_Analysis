@@ -26,7 +26,7 @@ The analysis explores how job demand, salaries, work models, company size, emplo
 -  click: https://chauhanekta21.github.io/Data_Job_Analysis-EDA/
 
 🔹 Option 3: Download and View Locally
--  Download main_file.ipynb or main_file.html and open them locally for the best offline experience.
+-  Download main_file.ipynb or index.html and open them locally for the best offline experience.
 
 
 📊 Objectives:

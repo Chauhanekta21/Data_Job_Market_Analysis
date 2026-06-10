@@ -18,7 +18,7 @@ The analysis explores how job demand, salaries, work models, company size, emplo
 📊 View Project:
 
 🔹 Option 1: Browse the GitHub Repository (Recommended)
--  https://github.com/Chauhanekta21/Data_Job_Analysis-EDA
+-  https://github.com/Chauhanekta21/Data_Job_Market_Analysis
 
 -  Note: GitHub may occasionally fail to render large notebooks. If the notebook preview does not load, use the options below:
 

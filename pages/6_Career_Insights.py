@@ -125,7 +125,7 @@ fig, ax = plt.subplots(figsize=(8, 5))
 ax.bar(
     experience_salary.index,
     experience_salary.values,
-    color=PASTEL["light_blue"],
+    color=PASTEL["light"],
     edgecolor="black"
 )
 

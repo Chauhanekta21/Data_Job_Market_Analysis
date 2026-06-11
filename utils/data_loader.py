@@ -3,7 +3,7 @@ import os
 
 def load_data():
     base_path = os.path.dirname(os.path.dirname(__file__))
-    file_path = os.path.join(base_path, "data_science_salaries.csv")
+    file_path = os.path.join(base_path, "data_science_salaries_clean.csv")
 
     df = pd.read_csv(file_path)
 

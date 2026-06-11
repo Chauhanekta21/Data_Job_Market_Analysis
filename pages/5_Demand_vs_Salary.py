@@ -96,7 +96,7 @@ ax.scatter(
     domain_analysis["job_count"],
     domain_analysis["median_salary"],
     s=250,
-    color=PASTEL["blue"],
+    color=PASTEL["primary"],
     edgecolor="black",
     alpha=0.8
 )

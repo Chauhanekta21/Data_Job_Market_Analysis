@@ -92,7 +92,7 @@ fig, ax = plt.subplots(figsize=(10, 5))
 ax.bar(
     salary_by_domain.index,
     salary_by_domain.values,
-    color=PASTEL["blue"],
+    color=PASTEL["primary"],
     edgecolor="black"
 )
 
@@ -142,7 +142,7 @@ fig, ax = plt.subplots(figsize=(10, 6))
 ax.barh(
     top_roles.index,
     top_roles.values,
-    color=PASTEL["light_blue"],
+    color=PASTEL["light"],
     edgecolor="black"
 )
 

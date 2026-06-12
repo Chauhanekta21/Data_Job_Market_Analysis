@@ -1,8 +1,13 @@
 import streamlit as st
 from utils.data_loader import load_data
-from utils.theme import PASTEL
+from utils.theme import PASTEL, apply_theme
+
 
 st.set_page_config(page_title="Home", layout="wide")
+
+# Apply Global Dashboard theme
+apply_theme()
+
 
 df = load_data()
 

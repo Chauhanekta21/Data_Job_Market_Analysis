@@ -1,11 +1,17 @@
 import streamlit as st
-from utils.theme import PASTEL
+from utils.theme import PASTEL, apply_theme
+
 
 # Configure Streamlit page settings (title, layout, browser tab name)
 st.set_page_config(
     page_title="Data Job Market Dashboard",
     layout="wide"
 )
+
+
+# Apply Global Dashboard theme
+apply_theme()
+
 
 # Display main dashboard title
 st.title("📊 Data Job Market Analysis Dashboard")

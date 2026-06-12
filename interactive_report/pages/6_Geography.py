@@ -2,7 +2,10 @@ import streamlit as st
 import matplotlib.pyplot as plt
 
 from utils.data_loader import load_data
-from utils.theme import PASTEL
+from utils.theme import PASTEL, apply_theme
+
+# Apply Global Dashboard theme
+apply_theme()
 
 
 # -------------------------

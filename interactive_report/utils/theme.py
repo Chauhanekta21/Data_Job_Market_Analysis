@@ -1,3 +1,6 @@
+import streamlit as st
+
+
 # -----------------------------
 # DASHBOARD COLOR THEME
 # -----------------------------
@@ -20,3 +23,21 @@ PASTEL = {
     # Effects
     "shadow": "rgba(0,0,0,0.08)"
 }
+
+
+# -----------------------------
+# APPLY GLOBAL DASHBOARD THEME
+# -----------------------------
+
+def apply_theme():
+    st.markdown(
+        """
+        <style>
+        /* Main app background */
+        .stApp {
+            background-color: #F8FBFF;
+        }
+        </style>
+        """,
+        unsafe_allow_html=True
+    )

@@ -1,6 +1,10 @@
 import streamlit as st
 
-from utils.theme import PASTEL
+from utils.theme import PASTEL, apply_theme
+
+# Apply Global Dashboard theme
+apply_theme()
+
 
 
 # -------------------------

@@ -13,7 +13,7 @@ PASTEL = {
     "very_light": "#DCEAF5",
 
     # Backgrounds
-    "background": "#F8FBFF",
+    "background": "#EAF6FF",
     "card_bg": "#FFFFFF",
 
     # Text
@@ -35,7 +35,7 @@ def apply_theme():
         <style>
         /* Main app background */
         .stApp {
-            background-color: #F8FBFF;
+            background-color: #EAF6FF;
         }
         </style>
         """,

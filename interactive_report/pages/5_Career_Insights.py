@@ -167,7 +167,7 @@ fig, ax = plt.subplots(figsize=(8, 5))
 ax.bar(
     employment_count.index,
     employment_count.values,
-    color=PASTEL["blue"],
+    color=PASTEL["primary"],
     edgecolor="black"
 )
 

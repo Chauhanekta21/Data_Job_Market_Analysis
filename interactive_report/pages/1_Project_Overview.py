@@ -17,11 +17,16 @@ st.write(
     "feature engineering, visual analysis, trend discovery, and final recommendations."
 )
 
-st.subheader("Business Problem")
+st.subheader("Objectives")
 st.write(
     "Recruiters, learners, and job seekers need a clear view of where demand and salary opportunities "
     "exist across the modern data job market. This project identifies high-demand domains, high-paying "
     "roles, experience-level effects, work model patterns, company-size trends, and global salary hubs."
+)
+
+st.info(
+    "Disclaimer: This dataset is sourced from Kaggle and used only for portfolio project purposes. "
+    "Please do not make career, hiring, salary, or business decisions based only on this analysis."
 )
 
 cols = st.columns(5)

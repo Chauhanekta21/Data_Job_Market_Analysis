@@ -6,7 +6,7 @@ from utils.formatting import format_currency, format_number
 
 st.set_page_config(
     page_title="Data Job Market Analysis",
-    page_icon="📊",
+    page_icon=":bar_chart:",
     layout="wide",
 )
 
@@ -37,11 +37,17 @@ st.divider()
 left, right = st.columns([1.1, 0.9])
 
 with left:
-    st.subheader("Business Objective")
+    st.subheader("Objectives")
     st.write(
         "Understand which data domains, job roles, experience levels, work models, "
         "company sizes, and locations offer the strongest opportunities in terms of "
         "job demand and compensation."
+    )
+
+    st.info(
+        "Disclaimer: This dataset is sourced from Kaggle and used only for portfolio "
+        "project purposes. Please do not make career, hiring, salary, or business "
+        "decisions based only on this analysis."
     )
 
     st.subheader("Analytical Journey")

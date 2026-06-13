@@ -5,7 +5,7 @@ Interactive Streamlit dashboard based on the original EDA notebook.
 ## Structure
 
 ```text
-app.py
+App.py
 data/
 pages/
 utils/
@@ -15,5 +15,5 @@ requirements.txt
 ## Run Locally
 
 ```bash
-streamlit run app.py
+streamlit run App.py
 ```

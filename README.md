@@ -17,16 +17,35 @@ The analysis explores how job demand, salaries, work models, company size, emplo
 
 📊 View Project:
 
-🔹 Option 1: Browse the GitHub Repository (Recommended)
--  https://github.com/Chauhanekta21/Data_Job_Market_Analysis
+🔹 Option 1: Explore Interactive Streamlit Dashboard (Recommended)
+-  Live Dashboard: https://datajobmarketanalysis-dashboard.streamlit.app
+
+- Experience the complete analysis through an interactive web application with:
+    - Dynamic filters and controls
+    - Interactive visualizations
+    - Domain-wise analysis
+    - Salary and trend exploration
+    - Data-driven insights and conclusions
+
+
+🔹 Option 2: Browse the GitHub Repository
+-  GitHub Repository: https://github.com/Chauhanekta21/Data_Job_Market_Analysis
+
+- Includes:
+    - Complete source code
+    - EDA notebook
+    - Streamlit application
+    - Data cleaning and analysis workflow
 
 -  Note: GitHub may occasionally fail to render large notebooks. If the notebook preview does not load, use the options below:
 
-🔹 Option 2: View Notebook via GitHub Pages
--  click: https://chauhanekta21.github.io/Data_Job_Market_Analysis/
+
+🔹 Option 3: View EDA Notebook via GitHub Pages
+-  Notebook Viewer: https://chauhanekta21.github.io/Data_Job_Market_Analysis/
 
 🔹 Option 3: Download and View Locally
--  Download main_file.ipynb or index.html and open them locally for the best offline experience.
+-  Download main_file.ipynb or index.html and open them locally for the complete offline EDA experience.
+
 
 
 📊 Objectives:

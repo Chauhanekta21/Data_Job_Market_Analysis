@@ -28,7 +28,7 @@ for index, insight in enumerate(final_insights, start=1):
 st.divider()
 
 insight_box(
-    "Portfolio Recommendations",
+    "Recommendations",
     [
         "Candidates targeting high salary growth should prioritize Machine Learning & AI, Data Architecture, and leadership-oriented skills.",
         "Candidates targeting broader job availability should focus on Data Science, Data Engineering, and Data Analysis.",

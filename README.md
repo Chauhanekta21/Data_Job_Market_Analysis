@@ -19,7 +19,7 @@ The analysis explores how job demand, salaries, work models, company size, emplo
 ---
 
 
-📊 View Project:
+##    📊 View Project:
 
 🔹 Option 1: Explore Interactive Streamlit Dashboard (Recommended)
 -  Live Dashboard: https://datajobmarketanalysis-dashboard.streamlit.app
@@ -50,9 +50,10 @@ The analysis explores how job demand, salaries, work models, company size, emplo
 🔹 Option 3: Download and View Locally
 -  Download main_file.ipynb or index.html and open them locally for the complete offline EDA experience.
 
+---
 
 
-📊 Objectives:
+##    📊 Objectives:
 - Analyze job demand across different data domains
 - Understand salary distribution and trends
 - Compare salaries across experience levels and roles
@@ -62,8 +63,10 @@ The analysis explores how job demand, salaries, work models, company size, emplo
 - Study employment type distribution
 - Track changes in demand and salary from 2020–2024
 
+  ---
 
-📊 Dataset Information:
+
+##    📊 Dataset Information:
 - Source: Kaggle
 - Link: https://www.kaggle.com/datasets/sazidthe1/data-science-salaries
 - Time Period: 2020–2024
@@ -79,16 +82,20 @@ The analysis explores how job demand, salaries, work models, company size, emplo
     - company_size
     - employment_type
 
+---
 
-📊 Tools & Libraries Used:
+
+##    📊 Tools & Libraries Used:
 - Python
 - NumPy: numerical operations
 - Pandas: data manipulation
 - Matplotlib: data visualization
 - Seaborn: statistical plotting
 
+---
 
-📊 Data Cleaning & Feature Engineering:
+
+##    📊 Data Cleaning & Feature Engineering:
 - Created a copy of the original dataset to preserve raw data
 - Standardized inconsistent job titles
 - Engineered a new feature: job_category to group similar roles
@@ -96,6 +103,7 @@ The analysis explores how job demand, salaries, work models, company size, emplo
 - Detected and treated outliers in salary using group-wise IQR method
 - Removed extreme unrealistic salary values (>600K USD)
 
+---
 
 📊 Exploratory Data Analysis (EDA):
 

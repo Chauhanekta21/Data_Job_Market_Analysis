@@ -105,7 +105,7 @@ The analysis explores how job demand, salaries, work models, company size, emplo
 
 ---
 
-📊 Exploratory Data Analysis (EDA):
+##    📊 Exploratory Data Analysis (EDA):
 
 🔹 1. Job Demand Across Data Domains
 -  Data Science dominates job listings
@@ -182,8 +182,9 @@ The analysis explores how job demand, salaries, work models, company size, emplo
 -  Contract and part-time roles are rare
 -  Industry strongly prefers stable employment
 
+---
 
-📊 Key Overall Insights:
+##    📊 Key Overall Insights:
 - AI/ML is the fastest-growing and highest-paying domain
 - Data Engineering is the most stable career path
 - Data Analysis & BI are high demand but lower salary domains
@@ -192,8 +193,9 @@ The analysis explores how job demand, salaries, work models, company size, emplo
 - Medium-sized companies offer the best balance of salary and hiring
 - Market demand peaked in 2023 with slight slowdown in 2024
 
+---
 
-📊 Conclusion:
+##    📊 Conclusion:
 - The data job market (2020–2024) shows a clear shift toward:
   - AI-driven roles
   - Specialized skill-based hiring
@@ -201,8 +203,9 @@ The analysis explores how job demand, salaries, work models, company size, emplo
   - Hybrid work still under development
 - Overall, specialization + experience = highest value in the modern data job market.
 
+---
 
-📊 Skills Demonstrated:
+##    📊 Skills Demonstrated:
 - Exploratory Data Analysis (EDA) on real-world job market data
 - Data Cleaning and Preprocessing (handling missing values, duplicates, and outliers)
 - Feature Engineering (creating job_category for better analysis)
@@ -213,7 +216,8 @@ The analysis explores how job demand, salaries, work models, company size, emplo
 - Salary and Demand Trend Analysis across multiple dimensions (domain, experience, location, company size)
 - Analytical Thinking for identifying patterns in real-world data job market (2020–2024)
 
+---
 
-📊 Future Improvements:
+##    📊 Future Improvements:
 - Build an interactive Power BI dashboard to visually explore job market trends, salary insights, and domain-wise demand in a more dynamic way.
 - Apply predictive modeling to forecast future salaries and job demand trends across different data domains based on historical data (2020–2024)
